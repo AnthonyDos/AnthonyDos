@@ -1,4 +1,4 @@
-
+![Cover](https://github.com/AnthonyDos/AnthonyDos/blob/main/img/anthony.png)
 ### Hi there 👋
 
 <!--
