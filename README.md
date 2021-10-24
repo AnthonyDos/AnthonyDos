@@ -1,3 +1,4 @@
+![Cover](https://github.com/AnthonyDos/AnthonyDos/blob/main/img/anthony.jpg)
 ### Hi there 👋
 
 <!--
