@@ -1,7 +1,7 @@
 ![Cover](https://github.com/AnthonyDos/AnthonyDos/blob/main/img/anthony.png)
 ### Hi 👋
 
-<p>I'am Anthony, graduated with a bac +2 in web development, I am preparing an engineering diploma in application designer developer bac +4.I live in Paris</p>
+<p>I'am Anthony, graduated with a bac +2 in web development, I am preparing an engineering diploma in application designer developer .I live in Paris</p>
 
 <!--
 **AnthonyDos/AnthonyDos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
